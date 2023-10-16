@@ -1,0 +1,15 @@
+{
+  "nodes": {
+    "myCustomNode": {
+      "name": "CMe3100 Node",
+      "type": "node",
+      "extends": ["input"],
+      "description": "Node to convert incoming data from an Elvaco Cme3100 with report Type x115 into single elements",
+      "icon": "fa-cogs",
+      "main": "true",
+      "keywords": "custom",
+      "shortDescription": "Transform CMe3100 data",
+      "sort": 2000
+    }
+  }
+}
